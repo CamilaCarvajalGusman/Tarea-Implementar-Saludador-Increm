@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 <html xml:lang="es">
   <head>
-    <title>Sumador</title>
+    <title>Saludador</title>
   </head>
   <body>
-    <h1>Sumador</h1>
+    <h1>Saludador</h1>
     <form id="sumar-form">
       <label for="nombre">Ingresa tu nombre: </label>
       <input type="text" id="nombre">
+      <br>
+      <select  id="genre" name="Escoge tu género">
+        <option value="Masculino">Masculino</option>
+        <option value="Femenino">Femenino</option>
+      </select>
       <input type="submit" value="Saludar" id="saludar-button" />
     </form>
     <div id="resultado-div"></div>
