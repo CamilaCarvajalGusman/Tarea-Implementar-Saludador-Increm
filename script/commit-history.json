@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "043e1515837d7ed86fc87e4f94704464f8c88f60",
     "author": "Camila",
     "commit": {
       "date": "2025-08-21T12:40:16.000Z",
       "message": "Implementado Saludar por nombre",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/043e1515837d7ed86fc87e4f94704464f8c88f60"
     },
     "stats": {
       "total": 27159,
       "additions": 4234,
       "deletions": 22925,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Camila",
+    "commit": {
+      "date": "2025-08-21T12:45:37.000Z",
+      "message": "implementado Saludar de acuerdo a la hora\n\nBuenos dias, buenas tardes, etc",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 10,
+      "deletions": 1,
       "date": "2025-08-21"
     },
     "coverage": 100,
