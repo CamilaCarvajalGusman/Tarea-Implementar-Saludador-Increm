@@ -1,10 +1,18 @@
-function saludar(nombre, genre){
+function saludar(nombre, genre, age){
     const hoy = new Date();
     let gen="";
-    if(genre==='Femenino'){
+    if(genre==='Femenino'&& age<30){
         gen="señorita"
     }else{
-        gen="señor"
+        if(genre==='Femenino'&&age>30){
+            gen="señora"
+        }else{
+            if(genre="Masculino"&&age>30){
+                gen="señor"
+            }else{
+                gen="joven"
+            }
+        }
     }
     if(hoy.getHours()>12&&hoy.getHours()<19){
         return "Buenas tardes "+gen+" "+nombre;

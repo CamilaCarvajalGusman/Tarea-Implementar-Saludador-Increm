@@ -38,17 +38,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "4c81b4d357eeae94b95602af7c3589fdae27ae5f",
     "author": "Camila",
     "commit": {
       "date": "2025-08-21T13:02:25.000Z",
       "message": "implementado Saludar por genero",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/4c81b4d357eeae94b95602af7c3589fdae27ae5f"
     },
     "stats": {
       "total": 26,
       "additions": 19,
       "deletions": 7,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Camila",
+    "commit": {
+      "date": "2025-08-21T13:10:08.000Z",
+      "message": "implementado edad",
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 20,
+      "additions": 16,
+      "deletions": 4,
       "date": "2025-08-21"
     },
     "coverage": 100,
