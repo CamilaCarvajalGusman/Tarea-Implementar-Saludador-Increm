@@ -57,18 +57,37 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "dcde1e6fbe874634dea5ea9a0e2b58a98e113959",
     "author": "Camila",
     "commit": {
       "date": "2025-08-21T13:10:08.000Z",
       "message": "implementado edad",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/dcde1e6fbe874634dea5ea9a0e2b58a98e113959"
     },
     "stats": {
       "total": 20,
       "additions": 16,
       "deletions": 4,
       "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Camila",
+    "commit": {
+      "date": "2025-08-24T15:23:02.000Z",
+      "message": "feat - saludar en diferentes idiomas",
+      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/HEAD"
+    },
+    "stats": {
+      "total": 165,
+      "additions": 116,
+      "deletions": 49,
+      "date": "2025-08-24"
     },
     "coverage": 100,
     "test_count": 1,
