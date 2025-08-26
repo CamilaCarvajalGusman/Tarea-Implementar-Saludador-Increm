@@ -1,4 +1,4 @@
-import { sumar, multiplicar } from "./calculadora";
+import { sumar, multiplicar, dividir } from "./calculadora";
 
 describe("Calculadora", () => {
   it("deberia sumar dos numeros", () => {
@@ -9,6 +9,9 @@ describe("Calculadora", () => {
   });
   it("deberia multiplicar dos numeros", () => {
     expect(multiplicar(13, 2)).toEqual(26);
+  });
+  it("deberia dividir dos numeros", () => {
+    expect(dividir(14, 2)).toEqual(7);
   });
 });
 

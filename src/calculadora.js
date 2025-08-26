@@ -4,4 +4,7 @@ function sumar(a, b) {
 function multiplicar(a, b) {
   return a * b;
 }
-export { sumar, multiplicar };
+function dividir(a, b){
+  return a / b;
+}
+export { sumar, multiplicar, dividir };

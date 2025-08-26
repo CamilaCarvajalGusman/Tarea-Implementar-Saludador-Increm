@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b63d345bc85e4d11a8de7c313c63236471042737",
     "author": "Camila",
     "commit": {
       "date": "2025-08-26T13:33:06.000Z",
       "message": "feat/multiplicar 2 números + test.js",
-      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/HEAD"
+      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/b63d345bc85e4d11a8de7c313c63236471042737"
     },
     "stats": {
       "total": 22,
@@ -129,6 +129,25 @@
     },
     "coverage": 68.42,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Camila",
+    "commit": {
+      "date": "2025-08-26T13:37:25.000Z",
+      "message": "feat/dividir implementado + test.js",
+      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 8,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 68.97,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }
