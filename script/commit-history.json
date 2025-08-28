@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "63ea7514d02cdddbbc8a97d81d2f4b2c080ddf4d",
     "author": "Camila",
     "commit": {
       "date": "2025-08-26T13:37:25.000Z",
       "message": "feat/dividir implementado + test.js",
-      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/HEAD"
+      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/63ea7514d02cdddbbc8a97d81d2f4b2c080ddf4d"
     },
     "stats": {
       "total": 10,
@@ -148,6 +148,25 @@
     },
     "coverage": 68.97,
     "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Camila",
+    "commit": {
+      "date": "2025-08-28T21:20:39.000Z",
+      "message": "feat: convertir un número que no es múltiplo de 3 ni 5",
+      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 14,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 69.49,
+    "test_count": 13,
     "failed_tests": 0,
     "conclusion": "success"
   }
