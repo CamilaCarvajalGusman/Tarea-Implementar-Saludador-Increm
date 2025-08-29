@@ -190,12 +190,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "7458544ac0419ba886508271f201f778708c3184",
     "author": "Camila",
     "commit": {
       "date": "2025-08-29T12:41:35.000Z",
       "message": "feat: retornar buzz cuando es multiplo de 5",
-      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/HEAD"
+      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/7458544ac0419ba886508271f201f778708c3184"
     },
     "stats": {
       "total": 7,
@@ -205,6 +205,25 @@
     },
     "coverage": 71.88,
     "test_count": 15,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Camila",
+    "commit": {
+      "date": "2025-08-29T20:34:07.000Z",
+      "message": "feat: 2 tests debería imprimir la secuencia de números hasta el número ingresado por el usuario",
+      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/HEAD"
+    },
+    "stats": {
+      "total": 52,
+      "additions": 35,
+      "deletions": 17,
+      "date": "2025-08-29"
+    },
+    "coverage": 75,
+    "test_count": 14,
     "failed_tests": 0,
     "conclusion": "success"
   }

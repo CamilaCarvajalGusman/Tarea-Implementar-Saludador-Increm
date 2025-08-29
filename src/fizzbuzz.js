@@ -1,10 +1,19 @@
-function convertirFizzBuzz(a) {
-    if (a % 3 != 0 && a % 5 != 0) {
-        return a.toString();
-    } else if (a % 3 == 0) {
-        return "fizz";
-    } else if (a % 5 == 0) {
-        return "buzz";
+function fizzbuzz(a) {
+    let cadena = "";
+    for (let i = 1; i <= a; i++) {
+        if (i % 3 != 0 && i % 5 != 0) {
+            cadena = cadena + i.toString();
+        } else if (i % 3 == 0 && i % 5 == 0) {
+            cadena = cadena + "fizzbuzz";
+        } else if (i % 3 == 0) {
+            cadena = cadena + "fizz";
+        } else if (i % 5 == 0) {
+            cadena = cadena + "buzz";
+        }
+        if (i < a) {
+            cadena = cadena + ", ";
+        }
     }
+    return cadena;
 }
-export default convertirFizzBuzz;
+export default fizzbuzz;
