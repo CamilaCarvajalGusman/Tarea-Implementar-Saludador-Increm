@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "caebd4970e6ee02c21a340a21db2d044d6aca716",
     "author": "Camila",
     "commit": {
       "date": "2025-08-28T21:20:39.000Z",
       "message": "feat: convertir un número que no es múltiplo de 3 ni 5",
-      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/HEAD"
+      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/caebd4970e6ee02c21a340a21db2d044d6aca716"
     },
     "stats": {
       "total": 14,
@@ -167,6 +167,25 @@
     },
     "coverage": 69.49,
     "test_count": 13,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Camila",
+    "commit": {
+      "date": "2025-08-29T12:38:30.000Z",
+      "message": "feat: retornar fizz cuando es multiplo de 3",
+      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 9,
+      "deletions": 2,
+      "date": "2025-08-29"
+    },
+    "coverage": 70.97,
+    "test_count": 14,
     "failed_tests": 0,
     "conclusion": "success"
   }
