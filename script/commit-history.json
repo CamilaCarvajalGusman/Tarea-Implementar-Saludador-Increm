@@ -209,17 +209,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "160fe2c20c7a22a1a74c82beef36c9ba88882c8d",
     "author": "Camila",
     "commit": {
       "date": "2025-08-29T20:34:07.000Z",
       "message": "feat: 2 tests debería imprimir la secuencia de números hasta el número ingresado por el usuario",
-      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/HEAD"
+      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/160fe2c20c7a22a1a74c82beef36c9ba88882c8d"
     },
     "stats": {
       "total": 52,
       "additions": 35,
       "deletions": 17,
+      "date": "2025-08-29"
+    },
+    "coverage": 75,
+    "test_count": 14,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Camila",
+    "commit": {
+      "date": "2025-08-29T20:37:59.000Z",
+      "message": "perf: implementar la secuencia fizzbuzz al front",
+      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/HEAD"
+    },
+    "stats": {
+      "total": 109,
+      "additions": 71,
+      "deletions": 38,
       "date": "2025-08-29"
     },
     "coverage": 75,
