@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "dcd6e5eea4c14c46742d2c1f38a86becc0af0f6c",
     "author": "Camila",
     "commit": {
       "date": "2025-08-29T12:38:30.000Z",
       "message": "feat: retornar fizz cuando es multiplo de 3",
-      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/HEAD"
+      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/dcd6e5eea4c14c46742d2c1f38a86becc0af0f6c"
     },
     "stats": {
       "total": 11,
@@ -186,6 +186,25 @@
     },
     "coverage": 70.97,
     "test_count": 14,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Camila",
+    "commit": {
+      "date": "2025-08-29T12:41:35.000Z",
+      "message": "feat: retornar buzz cuando es multiplo de 5",
+      "url": "https://github.com/CamilaCarvajalGusman/Tarea-Implementar-Saludador-Increm/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 6,
+      "deletions": 1,
+      "date": "2025-08-29"
+    },
+    "coverage": 71.88,
+    "test_count": 15,
     "failed_tests": 0,
     "conclusion": "success"
   }
